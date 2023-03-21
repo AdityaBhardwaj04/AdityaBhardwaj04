@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=AdityaBhardwaj04&style=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @AdityaBhardwaj04
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C, C++ & Python
